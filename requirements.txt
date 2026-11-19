@@ -1,0 +1,9 @@
+# Python 3.10-3.12
+tensorflow>=2.16,<3      # inclui Keras 3. Para GPU: Linux/WSL2 -> pip install "tensorflow[and-cuda]"
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+jupyter
+nbformat

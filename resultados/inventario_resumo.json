@@ -1,0 +1,73 @@
+{
+  "total_arquivos": 7000,
+  "por_classe": {
+    "airport": 700,
+    "beach": 700,
+    "circular_farmland": 700,
+    "dense_residential": 700,
+    "desert": 700,
+    "forest": 700,
+    "harbor": 700,
+    "mountain": 700,
+    "river": 700,
+    "storage_tank": 700
+  },
+  "falhas_leitura": 0,
+  "dimensoes": [
+    {
+      "largura": 256,
+      "altura": 256,
+      "n": 7000
+    }
+  ],
+  "modos": {
+    "RGB": 7000
+  },
+  "duplicatas_exatas_md5": 6,
+  "grupos_com_mais_de_uma_imagem": 7,
+  "imagens_em_grupos_duplicados": 14,
+  "contagens_particao": {
+    "treino": {
+      "airport": 490,
+      "beach": 490,
+      "circular_farmland": 490,
+      "dense_residential": 490,
+      "desert": 490,
+      "forest": 490,
+      "harbor": 490,
+      "mountain": 490,
+      "river": 490,
+      "storage_tank": 490
+    },
+    "validacao": {
+      "airport": 105,
+      "beach": 105,
+      "circular_farmland": 105,
+      "dense_residential": 105,
+      "desert": 105,
+      "forest": 105,
+      "harbor": 105,
+      "mountain": 105,
+      "river": 105,
+      "storage_tank": 105
+    },
+    "teste": {
+      "airport": 105,
+      "beach": 105,
+      "circular_farmland": 105,
+      "dense_residential": 105,
+      "desert": 105,
+      "forest": 105,
+      "harbor": 105,
+      "mountain": 105,
+      "river": 105,
+      "storage_tank": 105
+    }
+  },
+  "totais_particao": {
+    "treino": 4900,
+    "validacao": 1050,
+    "teste": 1050
+  },
+  "grupos_em_mais_de_uma_particao": 0
+}
